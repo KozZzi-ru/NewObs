@@ -1,3 +1,2 @@
-[[README]]
-[About] (/ABOUT) - md-link
-[[About]]
+[README](/README.md)
+[About](/About.md)
